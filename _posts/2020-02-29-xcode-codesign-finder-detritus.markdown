@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Xcode CodeSign \"resource fork, Finder information, or similar detritus not allowed\""
-date:   2020-02-29
 categories: programming iOS 
 tags: xcode codesign iOS 
 ---
